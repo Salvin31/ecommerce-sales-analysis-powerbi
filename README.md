@@ -144,18 +144,6 @@ This project demonstrates practical experience with:
 
 ---
 
-## Project Structure
-
-```text
-ecommerce-sales-dashboard/
-│
-├── Dashboard.pbix
-├── Book1.xlsx
-├── README.md
-└── images/
-    └── dashboard.png
-```
-
 ---
 
 ## How to Use
