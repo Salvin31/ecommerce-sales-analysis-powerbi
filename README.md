@@ -10,7 +10,6 @@ The dashboard transforms raw sales data into meaningful business insights throug
 
 ## Dashboard Preview
 
-> Replace the placeholder below with your dashboard image.
 
 <img width="593" height="330" alt="image" src="https://github.com/user-attachments/assets/deaf9d04-7da7-4698-867e-26e307043c09" />
 
